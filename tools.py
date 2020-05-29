@@ -38,7 +38,7 @@ print
 print "[5] Keluar"
 print
 print "===================================================="
-prib y
+print
 print "PILIH SALAH SATU TOOLS DI ATAS INI"
 print
 print "===================================================="
